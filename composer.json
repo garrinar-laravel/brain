@@ -1,0 +1,15 @@
+{
+    "name": "garrinar/brain",
+	"type": "library",
+    "require": {
+		"php": ">=5.5.9",
+        "fzaninotto/faker": "^1.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viktor Noyabrodsky",
+            "email": "garrinar@gmail.com"
+        }
+    ]
+}
