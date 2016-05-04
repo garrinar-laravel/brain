@@ -1,6 +1,7 @@
 {
     "name": "garrinar/brain",
 	"type": "library",
+	"version": "1.0.0",
     "require": {
 		"php": ">=5.5.9",
         "fzaninotto/faker": "^1.6"
