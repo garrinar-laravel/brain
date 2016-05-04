@@ -2,10 +2,10 @@
     "name": "garrinar/brain",
     "description": "",
 	"type": "library",
-	"version": "1.0.0",
     "require": {
 		"php": ">=5.5.9",
-        "fzaninotto/faker": "^1.4"
+        "fzaninotto/faker": "^1.4",
+        "Illuminate/support" : "^5.2"
     },
     "license": "MIT",
     "authors": [
@@ -13,5 +13,6 @@
             "name": "Viktor Noyabrodsky",
             "email": "garrinar@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
